@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat",
+  "description": "A real-time, WhatsApp-style chat application powered by the Gemini AI. Engage in dynamic, streaming conversations with a helpful AI assistant.",
+  "requestFramePermissions": []
+}
